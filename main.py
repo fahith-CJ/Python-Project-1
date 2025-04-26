@@ -7,7 +7,7 @@ from rich.prompt import Prompt
 
 # If it's a class, use:
 # from bank_operator import BankOperator
-# And initialize the object before using it, like so:
+# And initialize the object before using it, like so:mnkk
 # bank_operator = BankOperator()
 
 console = Console()
@@ -67,4 +67,3 @@ def menu():
 
 if __name__ == "__main__":
     menu()
-    
